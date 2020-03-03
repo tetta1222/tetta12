@@ -1,0 +1,40 @@
+
+    
+    // スクロールしたときにアニメーションを発動
+
+    $(function(){
+        $('.invew_ani').on('inview', function(event, isInView, fade_in) {
+        if (isInView) {
+            $('.fade_in').addClass('fadeIn animated opacity')
+        }
+        });
+    })
+   
+    $(function(){
+        $('.invew_ani').on('inview', function(event, isInView, fade_in) {
+        if (isInView) {
+            $('.fade_in2').addClass('fadeIn animated opacity')
+        }
+        });
+    })
+    $(function(){
+        $('.invew_ani').on('inview', function(event, isInView, fade_in) {
+        if (isInView) {
+            $('.fade_in3').addClass('fadeIn animated opacity')
+        }
+        });
+    })
+    $(function(){
+        $('.invew_ani').on('inview', function(event, isInView, fade_in) {
+        if (isInView) {
+            $('.fade_in4').addClass('fadeIn animated opacity')
+        }
+        });
+    })
+    $(function(){
+        $('.invew_ani').on('inview', function(event, isInView, fade_in) {
+        if (isInView) {
+            $('.fade_in5').addClass('fadeIn animated opacity')
+        }
+        });
+    })
