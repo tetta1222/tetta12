@@ -337,7 +337,7 @@ section > div{
         }
     }
     
-    @media(max-width:748px){
+    @media(max-width:740px){
         .about{
             padding: 0;
         }
@@ -357,11 +357,13 @@ section > div{
                 left: 0;
                 right: 0;
                 height: 200px;
-                ul{
-                    line-height: ;
-                }
+                
             }
         }
+        ul{
+            font-size:70%;
+           line-height: ;
+            }
     }
     @media(min-width: 740px) and(max-width:1400px)  {
         .about{
