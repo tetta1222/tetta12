@@ -330,11 +330,11 @@ section > div {
     height: 200px;
   }
   .about .about_pic .about_sentence ul {
-    
+    font-size:2.5rem;
   }
 }
 
-@media (min-width: 750px) and (max-width: 1400px) {
+@media (min-width: 741px) and (max-width: 1400px) {
   .about .about {
     padding: 0;
   }
@@ -405,7 +405,7 @@ section > div {
 }
 
 .service .service_child ul li p {
-  font-size: 80%;
+  font-size: 2.5rem;
   color: orange;
   margin: 0;
 }
@@ -466,7 +466,7 @@ section > div {
   }
 }
 
-@media (min-width: 750px) and (max-width: 1400px) {
+@media (min-width: 741px) and (max-width: 1400px) {
   .service {
     height: 50vh;
   }
