@@ -299,7 +299,7 @@ section > div {
   padding: 0;
   line-height: 30px;
   list-style-type: none;
-  font-size: 24%;
+  font-size: 1.2rem%;
 }
 
 .about .about_pic .inview_ani {
@@ -330,11 +330,11 @@ section > div {
     height: 200px;
   }
   .about .about_pic .about_sentence ul {
-    line-height: 70%;
+    
   }
 }
 
-@media (min-width: 740px) and (max-width: 1400px) {
+@media (min-width: 750px) and (max-width: 1400px) {
   .about .about {
     padding: 0;
   }
@@ -428,7 +428,7 @@ section > div {
   background-color: #5EA3A3;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .service {
     height: 300px;
     padding-left: 5px;
@@ -440,9 +440,11 @@ section > div {
   }
   .service .service_child .sub_title {
     padding-top: 10px;
+    font-size:2.5rem;
   }
   .service .service_child ul {
     line-height: 200%;
+    font-size:2.5rem;
     margin: 0;
   }
   .service .service_child ul li {
@@ -464,7 +466,7 @@ section > div {
   }
 }
 
-@media (min-width: 740px) and (max-width: 1400px) {
+@media (min-width: 750px) and (max-width: 1400px) {
   .service {
     height: 50vh;
   }
