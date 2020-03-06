@@ -781,6 +781,9 @@ section > div {
 }
 
 @media (max-width: 750px) {
+  p{
+  font-size:1.2rem;
+  }
   .contact {
     line-height: 0%;
     height: auto;
@@ -814,6 +817,10 @@ section > div {
   textarea{
     width:50vw;
    height:80px;
+  }
+  button
+  {
+    font-size: 1.2rem;
   }
 }
 
