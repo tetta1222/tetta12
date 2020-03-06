@@ -376,7 +376,7 @@ section > div {
 }
 
 .service .service_child p {
-  font-size: 50%;
+  
 }
 
 .service .service_child .sub_title {
@@ -404,7 +404,6 @@ section > div {
 }
 
 .service .service_child ul li p {
-  font-size: 1.2rem;
   color: orange;
   margin: 0;
 }
