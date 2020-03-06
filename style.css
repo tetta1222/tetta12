@@ -783,10 +783,11 @@ section > div {
 @media (max-width: 750px) {
   .contact {
     line-height: 0%;
-    height: 350px;
+    height: auto;
   }
   .contact .contact_child {
-    height: 300px;
+    margin:0 10px;
+    height:auto;
   }
   .contact svg {
     width: 65px;
@@ -798,6 +799,21 @@ section > div {
   }
   .contact #naiyou {
     height: 10vh;
+  }
+  label{
+  font-size:1.2rem;
+  margin:0;
+  }
+  form{
+  margin-bottom: 15px;
+  }
+  input{
+  height:30px;
+  width:50vw;
+  }
+  textarea{
+    width:50vw;
+   height:20vh
   }
 }
 
