@@ -789,7 +789,7 @@ section > div {
     height: auto;
   }
   .contact .contact_child {
-    margin:0 10px;
+    margin:10px;
     height:auto;
   }
   .contact svg {
