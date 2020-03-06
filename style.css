@@ -780,7 +780,7 @@ section > div {
   }
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .contact {
     line-height: 0%;
     height: 350px;
