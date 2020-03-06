@@ -783,7 +783,7 @@ section > div {
 
 @media (max-width: 750px) {
   .contact p:nth-child(2) {
-    font-size: 30%;
+    font-size: 1.2%;
   }
   p{
   font-size:1.2rem;
