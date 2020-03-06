@@ -753,14 +753,16 @@ section > div {
   width: 40vw;
   border: none;
   border: none;
+  border-radius:0;
 }
 
 .contact .p-form .p-formGroup textarea {
   width: 40vw;
   height: 20vh;
-  border-radius: 5px;
   border: none;
   resize: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
 }
 
 .contact button {
