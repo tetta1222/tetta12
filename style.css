@@ -813,6 +813,7 @@ section > div {
   input{
   height:30px;
   width:50vw;
+  font-size:1.2rem;
   }
   textarea{
     width:50vw;
