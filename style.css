@@ -357,7 +357,7 @@ section > div {
     height: 80%;
   }
   .about .about_pic .about_sentence ul li {
-    font-size: 2rem;
+    font-size: 1.2rem;
   }
 }
 
@@ -467,15 +467,16 @@ section > div {
 
 @media (min-width: 741px) and (max-width: 1400px) {
   .service {
-    height: auto;
+    height: 50vh;
   }
   .service .service_child {
     width: 60%;
   }
-  .service .service_child .sub_title {
+  .service .service_child .sub_title{
   font-size:2rem;
   }
 }
+
 
 /*-------------------------------------------*/
 /*--------------スキル-----------------------*/
