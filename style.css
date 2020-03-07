@@ -862,7 +862,13 @@ footer {
   .contact .p-form .p-formGroup input{
   font-size:2rem;
   }
+  .contact p:nth-child(2){
+  font-size:2rem;
+  }  
 }
+
+
+
 footer small {
   font-size: 40%;
   color: white;
