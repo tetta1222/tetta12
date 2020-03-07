@@ -822,7 +822,9 @@ section > div {
   }
   #naiyou{
     width:50vw;
-   height:80px;
+    height:80px;
+    line-height: 100%;
+    font-size: 1.2rem
   }
   .basicBox
   {
