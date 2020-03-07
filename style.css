@@ -357,7 +357,7 @@ section > div {
     height: 80%;
   }
   .about .about_pic .about_sentence ul li {
-    font-size: 1.2rem;
+    font-size: 2rem;
   }
 }
 
@@ -467,7 +467,7 @@ section > div {
 
 @media (min-width: 741px) and (max-width: 1400px) {
   .service {
-    height: 50vh;
+    height: auto;
   }
   .service .service_child {
     width: 60%;
