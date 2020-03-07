@@ -824,7 +824,7 @@ section > div {
     width:50vw;
    height:80px;
   }
-  button
+  .basicBox
   {
     font-size: 1.2rem;
   }
@@ -851,6 +851,8 @@ footer small {
 }
 @media(max-width:750px){
 footer{
-  font-size:1.2rem;
+  height:10vh;
   }
+footer small{
+  font-size:2.2rem;
 }
