@@ -472,6 +472,9 @@ section > div {
   .service .service_child {
     width: 60%;
   }
+  .service .service_child .sub_title {
+  font-size:2rem;
+  }
 }
 
 /*-------------------------------------------*/
