@@ -815,12 +815,12 @@ section > div {
   form{
   margin-bottom: 15px;
   }
-  input{
+  .contact .p-form .p-formGroup input{
   height:30px;
   width:50vw;
   font-size:1.2rem;
   }
-  #naiyou{
+  .contact .p-form .p-formGroup #naiyou{
     width:50vw;
     height:80px;
     line-height: 100%;
