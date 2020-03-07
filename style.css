@@ -58,7 +58,7 @@ section > div {
   padding-bottom: 50px;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .title {
     font-size: 2rem;
     padding-top: 25px;
@@ -100,19 +100,19 @@ section > div {
   margin: 10px 10px;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .home .landing {
     background-position: left;
   }
 }
 
-@media (min-width: 740px) and (max-width: 1400px) {
+@media (min-width: 750px) and (max-width: 1400px) {
   nav {
     margin-right: 30px;
   }
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .home div img {
     height: 40vh;
   }
@@ -306,7 +306,7 @@ section > div {
   bottom: 0;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .about .about {
     padding: 0;
   }
@@ -551,7 +551,7 @@ section > div {
   list-style-type: none;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .skill .skill_child {
     line-height: normal;
   }
@@ -588,7 +588,7 @@ section > div {
   background-repeat: no-repeat;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .works .work_size {
     width: auto;
     margin-bottom: 2vh;
@@ -682,7 +682,7 @@ section > div {
   border-radius: 5px;
 }
 
-@media (max-width: 740px) {
+@media (max-width: 750px) {
   .works .works_child {
     display: block;
   }
@@ -694,7 +694,7 @@ section > div {
   }
 }
 
-@media (min-width: 740px) and (max-width: 1400px) {
+@media (min-width: 751px) and (max-width: 1400px) {
   .works .works {
     height: 100vh;
   }
@@ -713,7 +713,7 @@ section > div {
   }
 }
 
-@media (min-width: 740px) {
+@media (min-width: 750px) {
   .works .works_child {
     height: 100vh;
   }
@@ -773,7 +773,7 @@ section > div {
   font-weight: bold;
 }
 
-@media (min-width: 740px) and (max-width: 1400px) {
+@media (min-width: 751px) and (max-width: 1400px) {
   .contact {
     height: 60vh;
   }
@@ -849,7 +849,7 @@ footer small {
   font-size: 40%;
   color: white;
 }
-@media(max-width:740px){
+@media(max-width:750px){
 footer{
   font-size:1.2rem;
   }
