@@ -619,9 +619,12 @@ section > div {
 .works .work_1 {
   background-color: #eee;
   background-image: url(FireShotCapture001-Document-.png);
-  display: flex;
-  justify-content: center;
-  align-items: center;
+   background-size: contain;
+   background-position: center;
+   background-repeat: no-repeat;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 .works .work_2 .work_2_1 {
