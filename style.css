@@ -849,11 +849,25 @@ footer {
   justify-content: space-around;
   align-items: center;
 }
-
+@media (min-width: 751px) and (max-width: 1400px){
+  .contact .p-form .p-formGroup #naiyou{
+  font-size:2rem;
+  }
+  .basicBox{
+  font-size:2rem;
+  }
+  label{
+  font-size:2rem;
+  }
+  .contact .p-form .p-formGroup input{
+  font-size:2rem;
+  }
+}
 footer small {
   font-size: 40%;
   color: white;
 }
+
 @media(max-width:750px){
 footer{
   height:10vh;
@@ -863,15 +877,3 @@ footer small{
 }
 
   
-  @media (min-width: 751px) and (max-width: 1400px) {
-    li{
-    font-size:2rem;
-    }
-    
-    p{
-    font-size:2rem
-    }
-  
-  
-  
-  }
