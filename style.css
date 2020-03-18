@@ -580,6 +580,7 @@ section > div {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width:99%
 }
 
 .works .work_size {
@@ -697,6 +698,7 @@ section > div {
 @media (max-width: 750px) {
   .works .works_child {
     display: block;
+    width:100%
   }
   
 }
