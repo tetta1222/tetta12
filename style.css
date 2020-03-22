@@ -668,7 +668,7 @@ section > div {
 .works .work_3 .work_3_2 {
   background-image:url(FireShotCapture019.png);
   background-size: cover;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   background-color: #eee;
   height: 39vh;
